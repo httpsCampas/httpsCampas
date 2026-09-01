@@ -46,7 +46,7 @@
 <table align="center" style="border: none; border-collapse: collapse; width: 100%; background: transparent;">
   <tr>
     <td align="left" style="border: none; width: 60%; padding-right: 20px; vertical-align: middle;">
-      <p style="margin: 0; font-size: 30px">I'm also a software developer, with skills in PHP, JavaScript, C#, HTML, SQL and NoSQL databases!</p>
+      <p style="margin: 0; font-size: 30px">I'm also a software developer, with skills in PHP, JavaScript, C#, HTML, SQL and NoSQL databases.</p>
     </td>
     <td align="center" style="border: none; width: 60%; vertical-align: middle;">
       <img src="/assets/darkbanner.gif" alt="Stickman" style="height: 300px; width: 300px; border-radius: 10px;" />
