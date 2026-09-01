@@ -4,7 +4,16 @@
 
 ![KenCarson](assets/kencarson.gif)
 
+<div align="center">
+
+  _Chat is this tuff?_
+
+</div>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=httpsCampas&color=green&style=for-the-badge&label=VISITS)
+
+<br>
+<br>
 
 ---
 
