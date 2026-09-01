@@ -16,8 +16,16 @@
     <span style="font-family: 'Inconsolata', monospace; color: #61AC52; font-size: 1.2rem;">Game Dev.</span>
 </div>
 
-<div align="center">
+<table align="center" style="border: none; border-collapse: collapse;">
+  <tr>
+    <td align="center" style="border: none; padding-right: 20px;">
+      <img src="/assets/grillz.gif" alt="Minha Imagem" style="height: 155px; width: auto; border-radius: 12px;" />
+    </td>
+    <td align="center" style="border: none;">
+
+ [![GitHub Streak](https://github-readme-streak-stats-lilac-zeta.vercel.app?user=httpsCampas&theme=highcontrast&hide_border=true&border_radius=12&short_numbers=true&card_width=500&card_height=190)](https://git.io/streak-stats)
+    </td>
+  </tr>
+</table>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&height=150&color=61AC52&section=footer&reversal=true&strokeWidth=100)
-
-</div>
