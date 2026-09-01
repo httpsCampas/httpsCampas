@@ -34,7 +34,7 @@
     </td>
     <td align="left" style="border: none; width: 60%; padding-left: 20px; vertical-align: middle;">
       <h3 style="margin-top: 0; margin-bottom: 8px; font-size: 30px; text-align: left;">About me:</h3>
-      <p style="margin-top: 0; font-size: 20px; text-align: left;">Passionate about making games, hip-hop enjoyer and aspiring artist. Currently working on GameMaker Studio projects</p>
+      <p style="margin-top: 0; font-size: 20px; text-align: left;">Passionate about making games, hip-hop enjoyer and aspiring artist. Currently working on GameMaker Studio projects.</p>
     </td>
   </tr>
 </table>
