@@ -23,6 +23,9 @@
 
 ---
 
+<br>
+<br>
+
 <!-- Image Left -->
 <table align="center" style="border: none; border-collapse: collapse; width: 100%; background: transparent;">
   <tr>
@@ -30,8 +33,8 @@
       <img src="/assets/grillz.gif" alt="Grillz" style="height: 200px; width: auto; border-radius: 10px;" />
     </td>
     <td align="left" style="border: none; width: 60%; vertical-align: middle;">
-      <h3 style="margin-top: 0; margin-bottom: 8px; font-size: 1.8em;">About me:</h3>
-      <p style="margin-top: 0; font-size: 1.2em">Passionate about making games, hip-hop and art. Currently working on GameMaker Studio projects</p>
+      <h3 style="margin-top: 0; margin-bottom: 8px; font-size: 2em;">About me:</h3>
+      <p style="margin-top: 0; font-size: 1.7em">Passionate about making games, hip-hop and art. Currently working on GameMaker Studio projects</p>
     </td>
   </tr>
 </table>
@@ -43,7 +46,7 @@
 <table align="center" style="border: none; border-collapse: collapse; width: 100%; background: transparent;">
   <tr>
     <td align="left" style="border: none; width: 60%; padding-right: 20px; vertical-align: middle;">
-      <p style="margin: 0; font-size: 1.2em">I'm also a software developer, with skills in PHP, JavaScript, C#, HTML, SQL and NoSQL databases!</p>
+      <p style="margin: 0; font-size: 1.7em">I'm also a software developer, with skills in PHP, JavaScript, C#, HTML, SQL and NoSQL databases!</p>
     </td>
     <td align="center" style="border: none; width: 40%; vertical-align: middle;">
       <img src="/assets/aliencat.jpg" alt="Stickman" style="height: 200px; width: 300px; border-radius: 10px;" />
