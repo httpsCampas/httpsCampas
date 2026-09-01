@@ -15,7 +15,7 @@
     <p align="left">
         <img src="https://img.shields.io/badge/Game%20Dev.-%2361AC52?style=for-the-badge&logo=Gamemaker&logoColor=white&labelColor=1e1e1e" alt="Game Dev.">
     </p>
-    <p align="left">
+    <p align="right">
         <img src="https://img.shields.io/badge/Work%20in%20Progress...-%2361AC52?style=for-the-badge&&logoColor=white&labelColor=1e1e1e" alt="Work in Progress.">
     </p>
 </div>
