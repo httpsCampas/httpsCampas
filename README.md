@@ -11,7 +11,7 @@
 
 <div>
     <p align="center">
-        <img src="https://img.shields.io/badge/Game%20Dev.-%23000?style=for-the-badge&logo=Gamemaker&logoColor=white&labelColor=1e1e1e" alt="Game Dev.">
+        <img src="https://img.shields.io/badge/Indie%20Game%20Dev.-%23000?style=for-the-badge&logo=Gamemaker&logoColor=black&labelColor=FFFFFF" alt="Game Dev.">
     </p>
     <br>
     <p align="center">
