@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Carrois+Gothic+SC&letterSpacing=2px&duration=7200&pause=1000&color=000000&background=FFFFFF00&center=true&vCenter=true&repeat=true&width=440&lines=The+eyes%2C+chico.+They+never+lie.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Carrois+Gothic+SC&letterSpacing=2px&duration=7200&pause=1000&color=FFFFFF&background=FFFFFF00&center=true&vCenter=true&repeat=true&width=440&lines=The+eyes%2C+chico.+They+never+lie.)](https://git.io/typing-svg)
 
 ![Anime](assets/animebanner.gif) 
 
