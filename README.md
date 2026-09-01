@@ -13,10 +13,5 @@
 ---
 
 <div align="left">
-    <p align="left">
-  <img src="https://img.shields.io/badge/Game%20Dev.-%2361AC52?style=flat&logo=gnomedotfiles&logoColor=white" alt="Game Dev"></p>
-</div>
-
-
-
+    <span style="font-family: 'Inconsolata', monospace; color: #61AC52; font-size: 1.2rem;">Game Dev.</span>
 </div>
