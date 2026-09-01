@@ -15,3 +15,9 @@
 <div align="left">
     <span style="font-family: 'Inconsolata', monospace; color: #61AC52; font-size: 1.2rem;">Game Dev.</span>
 </div>
+
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=150&color=61AC52&section=footer&reversal=true&strokeWidth=100)
+
+</div>
