@@ -75,7 +75,7 @@
 
 <div align="center">
 
-  _God Bless Y'all 🤍_
+  _🤍_
 
 </div>
 
