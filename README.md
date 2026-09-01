@@ -12,24 +12,19 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=httpsCampas&color=green&style=for-the-badge&label=VISITS)
 
-<br>
-<br>
-
 ---
-
-<br>
 <br>
 
 <div>
     <p align="center">
         <img src="https://img.shields.io/badge/Game%20Dev.-%2361AC52?style=for-the-badge&logo=Gamemaker&logoColor=white&labelColor=1e1e1e" alt="Game Dev.">
     </p>
+    <br>
     <p align="center">
         <img src="https://img.shields.io/badge/Work%20in%20Progress...-%2361AC52?style=for-the-badge&&logoColor=white&labelColor=1e1e1e" alt="Work in Progress.">
     </p>
 </div>
 
-<br>
 <br>
 
 ---
@@ -64,6 +59,9 @@
     </td>
   </tr>
 </table>
+
+<br>
+<br>
 
 ---
 
