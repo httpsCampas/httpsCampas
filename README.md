@@ -28,4 +28,4 @@
   </tr>
 </table>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=150&color=61AC52&section=footer&reversal=true&strokeWidth=100)
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=165&color=a8e6a8&section=footer&textBg=false)
