@@ -29,10 +29,10 @@
 <!-- Image Left -->
 <table align="center" style="border: none; border-collapse: collapse; width: 100%; background: transparent;">
   <tr>
-    <td align="center" style="border: none; width: 40%; padding-right: 20px; vertical-align: middle;">
+    <td align="right" style="border: none; width: 40%; padding-right: 20px; vertical-align: middle;">
       <img src="/assets/darkgrillz.gif" alt="Grillz" style="height: 250px; width: 500px; border-radius: 10px;" />
     </td>
-    <td align="left" style="border: none; width: 60%; vertical-align: middle;">
+    <td align="center" style="border: none; width: 60%; vertical-align: middle;">
       <h3 style="margin-top: 0; margin-bottom: 8px; font-size: 40px;">About me:</h3>
       <p style="margin-top: 0; font-size: 30px">Passionate about making games, hip-hop enjoyer and aspiring artist. Currently working on GameMaker Studio projects</p>
     </td>
@@ -49,7 +49,7 @@
       <p style="margin: 0; font-size: 30px; text-align:"right;">I'm also a software developer, with skills in PHP, JavaScript, C#, HTML, SQL and NoSQL databases.</p>
     </td>
     <td align="center" style="border: none; width: 60%; vertical-align: middle;">
-      <img src="/assets/darkbanner.gif" alt="Stickman" style="height: 300px; width: 300px; border-radius: 10px;" />
+      <img src="/assets/darkbanner.gif" alt="Dark" style="height: 300px; width: 300px; border-radius: 10px;" />
     </td>
   </tr>
 </table>
