@@ -21,21 +21,42 @@
     </p>
 </div>
 
-<table align="center" style="border: none; border-collapse: collapse;">
-  <tr>
-    <td align="center" style="border: none; padding-right: 20px;">
-      <img src="/assets/grillz.gif" alt="Minha Imagem" style="height: 155px; width: auto; border-radius: 12px;" />
-    </td>
-    <td align="center" style="border: none;">
+---
 
- [![GitHub Streak](https://github-readme-streak-stats-lilac-zeta.vercel.app?user=httpsCampas&theme=highcontrast&hide_border=true&border_radius=12&short_numbers=true&card_width=500&card_height=190)](https://git.io/streak-stats)
+<!-- Image left -->
+<table align="center" style="border: none; border-collapse: collapse; width: 100%;">
+  <tr>
+    <td align="center" style="border: none; width: 40%; padding-right: 20px;">
+      <img src="/assets/grillz.gif" alt="Grillz" style="height: 200px; width: auto; border-radius: 10px;" />
+    </td>
+    <td align="left" style="border: none; width: 60%;">
+      <h3>About me:</h3>
+      <p>Passionate about making games, hip-hop and art. Currently working on GameMaker Studio projects</p>
+    </td>
+  </tr>
+</table>
+
+<br>
+<br>
+
+<!-- Image Right -->
+<table align="center" style="border: none; border-collapse: collapse; width: 100%;">
+  <tr>
+    <td align="left" style="border: none; width: 60%; padding-right: 20px;">
+      <p>I'm also a software developer, with skills in PHP, JavaScript, C#, HTML, SQL and NoSQL databases!</p>
+    </td>
+    <td align="center" style="border: none; width: 40%;">
+      <img src="/assets/aliencat.jpg" alt="Stickman" style="height: 200px; width: 300px; border-radius: 10px;" />
     </td>
   </tr>
 </table>
 
 ---
 
-
+<br>
+<br>
+<br>
+<br>
 
 <div align="center">
 
