@@ -13,7 +13,12 @@
 ---
 
 <div align="left">
-    <span style="font-family: 'Inconsolata', monospace; color: #61AC52; font-size: 1.2rem;">Game Dev.</span>
+    <p align="left">
+        <img src="https://img.shields.io/badge/Game%20Dev.-%2361AC52?style=for-the-badge&logo=Gamemaker&logoColor=white&labelColor=1e1e1e" alt="Game Dev.">
+    </p>
+    <p align="left">
+        <img src="https://img.shields.io/badge/Work%20in%20Progress...-%2361AC52?style=for-the-badge&&logoColor=white&labelColor=1e1e1e" alt="Work in Progress.">
+    </p>
 </div>
 
 <table align="center" style="border: none; border-collapse: collapse;">
@@ -27,5 +32,9 @@
     </td>
   </tr>
 </table>
+
+---
+
+> _God Bless Y'all 💚_
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&height=165&color=a8e6a8&section=footer&textBg=false)
