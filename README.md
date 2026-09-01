@@ -4,19 +4,29 @@
 
 ![Anime](assets/animebanner.gif) 
 
-![Profile Views](https://komarev.com/ghpvc/?username=httpsCampas&color=000000&style=for-the-badge&label=VISITS)
+<div>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Indie%20Game%20Dev.-%23000?style=for-the-badge&logo=Gamemaker&logoColor=black&labelColor=FFFFFF" alt="Game Dev.">
+  </p>
+</div>
+
+![Profile Views](https://komarev.com/ghpvc/?username=httpsCampas&color=000000&style=for-the-badge&label=PROFILE%20VISITS)
 
 ---
-<br>
 
 <div>
     <p align="center">
-        <img src="https://img.shields.io/badge/Indie%20Game%20Dev.-%23000?style=for-the-badge&logo=Gamemaker&logoColor=black&labelColor=FFFFFF" alt="Game Dev.">
+        <img src="https://img.shields.io/badge/Projects-%23000?style=for-the-badge&&logoColor=black&labelColor=000000" alt="Projects Badge">
     </p>
     <br>
-    <p align="center">
-        <img src="https://img.shields.io/badge/Work%20in%20Progress...-%23000?style=for-the-badge&&logoColor=white&labelColor=1e1e1e" alt="Work in Progress.">
-    </p>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bitcount+Single&weight=500&size=30&duration=10000&pause=1000&color=000000&center=true&width=450&height=80&lines=Work+In+Progress.+.+.)](https://git.io/typing-svg)
+
+<!-->
+<p align="center">
+  <img src="https://img.shields.io/badge/Work%20In%20Progress...-%23000?style=for-the-badge&&logoColor=black&labelColor=000000" alt="Work In Progress Badge">
+</p> -->
+
 </div>
 
 <br>
