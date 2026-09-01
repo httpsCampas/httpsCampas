@@ -70,4 +70,4 @@
 
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=165&color=a8e6a8&section=footer&textBg=false)
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=165&color=000000&section=footer&textBg=false)
