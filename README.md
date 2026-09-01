@@ -22,11 +22,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bitcount+Single&weight=500&size=30&duration=10000&pause=1000&color=000000&center=true&width=450&height=80&lines=Work+In+Progress.+.+.)](https://git.io/typing-svg)
 
-<!-->
+<!--
 <p align="center">
   <img src="https://img.shields.io/badge/Work%20In%20Progress...-%23000?style=for-the-badge&&logoColor=black&labelColor=000000" alt="Work In Progress Badge">
 </p> -->
-
 </div>
 
 <br>
