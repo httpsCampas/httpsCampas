@@ -71,12 +71,13 @@
 <br>
 <br>
 <br>
-<br>
 
 <div align="center">
 
   _🤍_
 
 </div>
+
+<br>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&height=165&color=000000&section=footer&textBg=false)
