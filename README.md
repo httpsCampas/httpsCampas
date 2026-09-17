@@ -20,7 +20,7 @@
     </p>
     <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bitcount+Single&weight=500&size=30&duration=10000&pause=1000&color=000000&center=true&width=450&height=80&lines=Work+In+Progress.+.+.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bitcount+Single&weight=500&size=30&duration=10000&pause=1000&color=ffffff&center=true&width=450&height=80&lines=Work+In+Progress.+.+.)](https://git.io/typing-svg)
 
 <!--
 <p align="center">
